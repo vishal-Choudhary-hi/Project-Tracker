@@ -1,0 +1,22 @@
+{
+  "project": [
+    {
+      "id": 1,
+      "title": "Create Home Page for two clients",
+      "details": "create home page for two client ",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Create Sales Page",
+      "details": "create sales page for client ",
+      "complete": false
+    },
+    {
+      "title": "Make a new nav bar",
+      "details": "hi",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
